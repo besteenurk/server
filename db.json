@@ -1,0 +1,51 @@
+{
+  "jobForm": [
+    {
+      "id": "2",
+      "position": "muh 2",
+      "department": "Müh. Direktörlüğü",
+      "placeId": "3"
+    },
+    {
+      "id": "3",
+      "position": "Mühendis",
+      "department": "Müh. Direktörlüğü",
+      "placeId": "1"
+    },
+    {
+      "id": "4",
+      "position": "Mühendis",
+      "department": "Müh. Direktörlüğü",
+      "placeId": "4"
+    },
+    {
+      "position": "test",
+      "placeId": "5",
+      "id": "uY_D5LQ"
+    },
+    {
+      "position": "test",
+      "department": "test1",
+      "placeId": "5",
+      "id": "aq85oyW"
+    }
+  ],
+  "place": [
+    {
+      "id": "1",
+      "place": "Next Level"
+    },
+    {
+      "id": "2",
+      "place": "Next Level"
+    },
+    {
+      "id": "3",
+      "place": "ODTU BIM"
+    },
+    {
+      "id": "4",
+      "place": "Next Level"
+    }
+  ]
+}
